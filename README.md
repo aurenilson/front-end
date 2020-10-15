@@ -23,7 +23,7 @@ O objetivo é seguir o layout que vamos apresentar. Ele é uma pequena aplicaç�
 
 
 
-![](src\iPad–1.png)
+![](https://github.com/aurenilson/front-end/blob/master/src/iPad–1.png)
 
 ##### Cadastro:
 
@@ -57,7 +57,7 @@ Os textos podem ser COPIADOS por aqui: https://blog.bitcointrade.com.br/surpreen
 
 
 
-![](src\iPad–2.png)
+![]((https://github.com/aurenilson/front-end/blob/master/src/iPad–2.png)
 
 
 
