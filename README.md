@@ -1,11 +1,10 @@
 ## Teste prático para programador Front-end
 
-O objetivo é conhecer sua habilidades usando CSS para desenvolver as caracteristicas da página e JS para formatar datas, mascaras e manupular inputs. Use somente HTML, CSS e JS. Não pode usar outras linguagens como PHP, ASP.net...
+O objetivo é conhecer sua habilidades usando CSS para desenvolver as características da página e JS para formatar datas, mascaras e manipular inputs. Use somente HTML, CSS e JS. Não pode usar outras linguagens como PHP, ASP.net...
 
 ### Desafio
 
 O objetivo é seguir o layout que vamos apresentar. Ele é uma pequena aplicação com duas páginas. Cadastro e Exibição de conteúdo.
-
 
 
 ##### Regras do layout:
@@ -57,8 +56,8 @@ Os textos podem ser COPIADOS por aqui: https://blog.bitcointrade.com.br/surpreen
 
 
 
-![]((https://github.com/aurenilson/front-end/blob/master/src/iPad–2.png)
+![](https://github.com/aurenilson/front-end/blob/master/src/iPad–2.png)
 
 
 
-OBS: fique atento as cores, fontes e grámatica. Seu layout será testado em diferentes dispositios. Boa sorte!
+OBS: fique atento as cores, fontes e gramática. Seu layout será testado em diferentes dispositivos. Boa sorte!
