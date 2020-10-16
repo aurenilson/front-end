@@ -57,6 +57,8 @@ Imagem: https://blog.bitcointrade.com.br/wp-content/uploads/2018/06/surpreendase
 
 Os textos podem ser COPIADOS por aqui: https://blog.bitcointrade.com.br/surpreenda-se-com-a-origem-do-bitcoin-a-moeda-virtual/
 
+link para imagem do SAC: https://assets.izap.com.br/clarearacessorios.com.br/uploads/img5b9aaaebbf94f.png
+
 
 
 
