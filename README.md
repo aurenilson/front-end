@@ -1,6 +1,6 @@
 # Teste prático para programador Front-end
 
-O objetivo é conhecer sua habilidades usando CSS para desenvolver as características da página e JS para formatar datas, mascaras e manipular inputs. Use somente HTML, CSS e JS. Não pode usar outras linguagens como PHP, ASP.net...
+O objetivo é conhecer sua habilidades usando CSS para desenvolver as características da página e JS para formatar datas, mascaras e manipular inputs. Use somente HTML, CSS e JS. Não pode usar outras linguagens como PHP, ASP.net... Você está livre para usar, pacotes de terceiros (WEBPACK) e frameworks!
 
 ### Desafio
 
