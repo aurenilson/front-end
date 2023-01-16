@@ -53,15 +53,11 @@ O objetivo é seguir o layout que vamos apresentar. Ele é uma pequena aplicaç�
 
 Use o json "https://api.coindesk.com/v1/bpi/currentprice.json" para retornar os dados e serem exibidos para o usuário.
 
-Imagem: https://blog.bitcointrade.com.br/wp-content/uploads/2018/06/surpreendase-com-a-origem-do-bitcoin-a-moeda-virtual.jpeg
-
-Os textos podem ser COPIADOS por aqui: https://blog.bitcointrade.com.br/surpreenda-se-com-a-origem-do-bitcoin-a-moeda-virtual/
+Imagem: https://b2329743.smushcdn.com/2329743/wp-content/uploads/2020/10/rompeu-bitcoin-supera-sua-maxima-historica-reais.jpg
 
 link para imagem do SAC: https://assets.izap.com.br/clarearacessorios.com.br/uploads/img5b9aaaebbf94f.png
 
-
-
-
+Os textos podem ser COPIADOS por aqui da imagem abaixo:
 
 ![](https://github.com/aurenilson/front-end/blob/master/src/iPad–2.png)
 
